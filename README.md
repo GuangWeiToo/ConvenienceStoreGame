@@ -16,3 +16,5 @@ esc-menu
 Enter number of items the customer brings. Example 2 soda cans, 1 beer, 12 Pastry.
 If you get it correct the customer will leave and you earn virtual money.
 Press escape and click quit to exit game.
+
+The code is in Assets\CustomerQueue.cs
